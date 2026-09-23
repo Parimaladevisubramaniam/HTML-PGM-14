@@ -5,7 +5,7 @@ Create an HTML page that demonstrates the use of absolute positioning.
 
 Task
 
-Complete the CSS in index.html so that the <aside> element is absolutely positioned relative to the <body>.
+Complete the CSS in **index.html** so that the <aside> element is absolutely positioned relative to the <body>.
 
 Do not change the existing HTML structure or content.
 
